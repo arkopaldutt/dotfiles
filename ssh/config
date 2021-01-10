@@ -1,0 +1,9 @@
+host frankfort
+ HostName frankfort.mit.edu
+ IdentityFile ~/.ssh/id_rsa
+ User arko
+
+host kentucky
+ HostName kentucky.mit.edu
+ IdentityFile ~/.ssh/id_rsa
+ User arko
